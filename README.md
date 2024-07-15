@@ -5,7 +5,7 @@
 ### Personal Projects
 | Name       | Description                      | Programming Languages/Tools |
 |------------|----------------------------------|----------------------------------|
-| [RateAlbuns](https://github.com/AAugustoBS/Rate-Albuns) | A website similar to LetterBoxD (for rating movies and adding to lists), but focused on albums and songs by artists. Integration with Spotify API and Wikipedia     | Python(Flask) on **ServerSide**, React.JS on **ClientSide**
+| [RateAlbuns](https://github.com/AAugustoBS/Rate-Albuns) | A website similar to [LetterBoxD](https://letterboxd.com/) (for rating movies and adding to lists), but focused on albums and songs by artists. Integration with Spotify API and Wikipedia     | Python(Flask) on **ServerSide**, React.JS on **ClientSide**
 
 ### Academic Projects
 | Course  | Name | Description | GPA /20 | 
