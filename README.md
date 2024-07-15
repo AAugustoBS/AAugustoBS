@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Antonio Sousa
-### A Software Developer and currently on Software Engineering Master's @FEUP.
-- 🔭 I have previous experience as a Full-Stack Developer @BIMMS
+### A Software Developer and currently on Software Engineering Master's [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial).
+- 🔭 I have previous experience as a Full-Stack Developer [@BIMMS](https://www.bimms.net/) (Jun-2022/jun-2023)
 
 ### Personal Projects
 | Name       | Description                      | Programming Languages/Tools |
